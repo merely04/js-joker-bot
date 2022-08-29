@@ -1,7 +1,7 @@
 # About the project
 
 This is bot powered by `grammy` and `prisma`. It also contains preconfigured logger `pino` and a bunch of helpful
-middlewares for `grammy`.
+middlewares for `grammy`. Bot supports multiple languages to respond to users.
 
 You can add a text / picture joke with `/addjoke` command and get a random joke with `/joke` command.
 
