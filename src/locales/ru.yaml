@@ -1,0 +1,9 @@
+hello: Привет
+
+joke_added_by: Добавлено
+joke_created: Шутка добавлена
+
+error_empty_content: Пустой контент
+error_empty_joke: |-
+  Не найдено ни одной шутки!
+  Добавьте первую при помощи команды /addjoke

@@ -1,0 +1,9 @@
+hello: Hello
+
+joke_added_by: Added by
+joke_created: Joke created
+
+error_empty_content: Content is empty
+error_empty_joke: |-
+  Any joke not found!
+  Add first joke with command /addjoke
