@@ -18,7 +18,6 @@
     "@grammyjs/ratelimiter": "^1.1.5",
     "@grammyjs/transformer-throttler": "^1.1.2",
     "@prisma/client": "^4.2.1",
-    "axios": "^0.27.2",
     "dotenv": "^16.0.1",
     "grammy": "^1.10.1",
     "grammy-middlewares": "^1.0.11",
